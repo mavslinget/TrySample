@@ -1,0 +1,12 @@
+D:\TryRecipe\TryRecipe\TryRecipe\bin\Debug\netstandard2.0\TryRecipe.deps.json
+D:\TryRecipe\TryRecipe\TryRecipe\bin\Debug\netstandard2.0\TryRecipe.dll
+D:\TryRecipe\TryRecipe\TryRecipe\bin\Debug\netstandard2.0\TryRecipe.pdb
+D:\TryRecipe\TryRecipe\TryRecipe\obj\Debug\netstandard2.0\TryRecipe.csprojAssemblyReference.cache
+D:\TryRecipe\TryRecipe\TryRecipe\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\TryRecipe\TryRecipe\TryRecipe\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\TryRecipe\TryRecipe\TryRecipe\obj\Debug\netstandard2.0\TryRecipe.csproj.CoreCompileInputs.cache
+D:\TryRecipe\TryRecipe\TryRecipe\obj\Debug\netstandard2.0\TryRecipe.AssemblyInfoInputs.cache
+D:\TryRecipe\TryRecipe\TryRecipe\obj\Debug\netstandard2.0\TryRecipe.AssemblyInfo.cs
+D:\TryRecipe\TryRecipe\TryRecipe\obj\Debug\netstandard2.0\XamlC.stamp
+D:\TryRecipe\TryRecipe\TryRecipe\obj\Debug\netstandard2.0\TryRecipe.dll
+D:\TryRecipe\TryRecipe\TryRecipe\obj\Debug\netstandard2.0\TryRecipe.pdb
